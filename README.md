@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This repository is intended as a trial of the StableDiffusion feature.
+The createImagesStableDiffusion function was used for the experiments and the description of the generated image was specified.
 <!--
 **MaksimAgapov/MaksimAgapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
